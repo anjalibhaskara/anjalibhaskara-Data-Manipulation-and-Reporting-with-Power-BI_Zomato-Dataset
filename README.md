@@ -59,7 +59,7 @@ We've got the datasets in the raw form as you can see [here](Datasets) , we have
    
    ## **PowerBI  Dashboard**
    
-   Added different graphs, cards, tables, filters, etc. You can have a look at the interactive Power-BI report [here](Zomato dashboard_anjali.pbix) and try different  filters as per your need. Feel     free to try different Drill options in Map visual to get insights of Continent, Country,City wise  analysis in "Global Analysis" 
+   Added different graphs, cards, tables, filters, etc. You can have a look at the interactive Power-BI report [here](Zomato_dashboard.pbix) and try different  filters as per your need. Feel     free to try different Drill options in Map visual to get insights of Continent, Country,City wise  analysis in "Global Analysis" 
 and try different filters in "Restaurant analysis" to get insights of Restaurant wise analysis.
 
 You can use the icons in Report to navigate between Global analysis and Restaurant analysis reports in the Dashboard.
