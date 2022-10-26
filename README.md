@@ -59,4 +59,12 @@ We've got the datasets in the raw form as you can see [here](Datasets) , we have
    
    ## **PowerBI  Dashboard**
    
+  Added different graphs, cards, tables, filters, etc. You can have a look at the interactive Power-BI report [here](Datasets/) and try different filters as per your need. Feel     free to try different Drill options in Map visual to get insights of Continent, Country,City wise  analysis in "Global Analysis" and try different filters
+  in "Restaurant analysis" to get insights of Restaurant wise analysis.
+  
+
+  In case if above link isn't accessible, I am attaching the following snap-shot for reference.
+  
+  
+   
    
