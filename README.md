@@ -12,19 +12,25 @@ We've got the datasets in the raw form as you can see [here](Datasets) , we have
   
   For each continent table (`.csv`) below changes are done.
   
-    - I have made sure that "CITY" Column names are corrected and are not ambiguous.
-      - **For example:**
+  - I have made sure that "CITY" Column names are corrected and are not ambiguous.
+     - **For example:**
        
-         “Sí£o Paulo” should be corrected to “São Paulo”
-      -  **For example:**
+        “Sí£o Paulo” should be corrected to “São Paulo”
+        
+      - **For example:**
        
          “Cedar Rapids/Iowa City” should be corrected to “Cedar Rapids”
          
          “ÛÁstanbul” should be corrected to “Istanbul”
          
   - As Restaurant name and address are present in same column,I have created two  Columns for displaying **Restaurant Name** and **Restaurant Address**.
+  - All Continent tables are appended to a single table named **"Restaurant Details"**
   
-  - 
+  - To create a new column in the Country Code table  “Continent” and to create the values using the below-mentioned convention I have created a table
+    **"Country Master"**  by creating a **"Many to One relationship"** between **"Continent"** and **"Restaurant Details"** tables using **"Manage Relationships"** 
+    in Data View.
+
+    Note: The mapping is continent - country, for example ''Africa – South Africa''  
   
   
   - As Country-Code table is dimension table I have removed duplicates and blank values.
