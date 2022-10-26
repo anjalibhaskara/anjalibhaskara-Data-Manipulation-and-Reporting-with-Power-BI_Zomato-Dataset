@@ -59,12 +59,20 @@ We've got the datasets in the raw form as you can see [here](Datasets) , we have
    
    ## **PowerBI  Dashboard**
    
-  Added different graphs, cards, tables, filters, etc. You can have a look at the interactive Power-BI report [here](Datasets/) and try different filters as per your need. Feel     free to try different Drill options in Map visual to get insights of Continent, Country,City wise  analysis in "Global Analysis" and try different filters
-  in "Restaurant analysis" to get insights of Restaurant wise analysis.
-  
+   Added different graphs, cards, tables, filters, etc. You can have a look at the interactive Power-BI report [here](Zomato dashboard_anjali.pbix) and try different  filters as per your need. Feel     free to try different Drill options in Map visual to get insights of Continent, Country,City wise  analysis in "Global Analysis" 
+and try different filters in "Restaurant analysis" to get insights of Restaurant wise analysis.
 
-  In case if above link isn't accessible, I am attaching the following snap-shot for reference.
+You can use the icons in Report to navigate between Global analysis and Restaurant analysis reports in the Dashboard.
+
+In case if above link isn't accessible, I am attaching the following snap-shots for reference.
   
   
    
+   ![Global analysis](https://user-images.githubusercontent.com/73122719/198102560-5e95f321-8818-497f-9109-ebebbf01d32b.PNG)
+   ![Global analysis_2](https://user-images.githubusercontent.com/73122719/198102806-c77b9c9a-8447-4458-b8b8-43d47a0b36f0.PNG)
+   ![Restaurant analysis](https://user-images.githubusercontent.com/73122719/198103428-66d18f1c-5ee0-4833-adaf-902d5a9e1159.PNG)
+   ![Restaurant analysis_2](https://user-images.githubusercontent.com/73122719/198103466-d96454af-fb67-4b44-a660-8c3b09d8fa6b.PNG)
+
    
+   
+
