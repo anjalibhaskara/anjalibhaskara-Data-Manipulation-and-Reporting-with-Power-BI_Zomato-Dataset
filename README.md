@@ -67,7 +67,6 @@ You can use the icons in Report to navigate between Global analysis and Restaura
 In case if above link isn't accessible, I am attaching the following snap-shots for reference.
   
   
-   
    ![Global analysis](https://user-images.githubusercontent.com/73122719/198102560-5e95f321-8818-497f-9109-ebebbf01d32b.PNG)
    ![Global analysis_2](https://user-images.githubusercontent.com/73122719/198102806-c77b9c9a-8447-4458-b8b8-43d47a0b36f0.PNG)
    ![Restaurant analysis](https://user-images.githubusercontent.com/73122719/198103428-66d18f1c-5ee0-4833-adaf-902d5a9e1159.PNG)
